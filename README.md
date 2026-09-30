@@ -5,5 +5,5 @@ Blabla
 
 ## User Stories
 
-### UC1: Oder Total: Phillip
+### UC1: Oder Total: Peter
 As a user, I want to see the order total so I that I know how much I have to pay.
