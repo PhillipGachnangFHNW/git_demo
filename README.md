@@ -12,3 +12,4 @@ As a user, I want to see the order total so, I that I know how much I have to pa
 As a user, I want to send an order, so that I can have dinner at home.
 
 ### US3: View Order
+As a user,...
